@@ -37,7 +37,7 @@ Useful to let network-drives remount, etc.
 
 ### Properties
 
-.scope
+.scope  
 .maxPending  
 .maxAttempts  
 .attemptTimeout
