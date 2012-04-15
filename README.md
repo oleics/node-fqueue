@@ -3,6 +3,8 @@ Function Queue
 
 ### In-memory, error handling (retry) function queue, with the ability to throttle simultaneous executions.
 
+[![Build Status](https://secure.travis-ci.org/oleics/node-fqueue.png)](http://travis-ci.org/oleics/node-fqueue)
+
 It is the distillate of [node-filewalker](https://github.com/oleics/node-filewalker)
 
 ### Installation
