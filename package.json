@@ -1,0 +1,26 @@
+{
+  "name": "fqueue",
+  "version": "0.0.0",
+  "description": "In-memory, error handling (retry) function queue, with the ability to throttle simultaneous executions.",
+  "author": {
+    "name": "Oliver Leics",
+    "email": "oliver.leics@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oleics/node-fqueue.git"
+  },
+  "contributors": [
+  ],
+  "main": "./fqueue",
+  "directories": {
+  },
+  "engines": {"node": ">= 0.4.x"},
+  "dependencies": {},
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "devDependencies": {
+    "mocha": "1.0.x"    
+  }
+}
